@@ -1,3 +1,5 @@
+# Navigation / Menu Bar
+
 To create a navbar in plotly-dash we can also use bootstrap.  
 The menu can be defined like this:
 
